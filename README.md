@@ -8,16 +8,5 @@ I'm an Information Engineering student with a strong focus on **Web Development*
 - **DevOps & Infrastructure**: CI/CD (YAML workflows), Virtual Machines, Kubernetes (small-scale), Ansible
 - **Daily Workflow**: Neovim ✨, Zsh, Zellij
 
-## Currently Learning
-- **React & TypeScript** for frontend development
-- **FastAPI & Flask** for backend development
-- **CI/CD Pipelines** with YAML and automation workflows
-- **Infrastructure as Code** with Kubernetes & Ansible
-
-## Goals
-- Build scalable and efficient web applications
-- Improve automation workflows and infrastructure management
-- Continue learning and contributing to open-source projects
-
 **If you're into web dev, DevOps, or just love tech discussions, feel free to reach out**
 
