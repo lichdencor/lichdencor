@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! 龴ↀ◡ↀ龴
 
-<!--
-**lichdencor/lichdencor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Engineering student with a strong focus on **Web Development** and a growing interest in **DevOps**. I always strive to stay up to date with the ever evolving wheel of technology.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Programming Languages**: Python 🐍, Java 💼, C 💻
+- **Web Development**: React ⚛️, TypeScript, SASS, JavaScript, HTML, CSS
+- **DevOps & Infrastructure**: CI/CD (YAML workflows), Virtual Machines, Kubernetes (small-scale), Ansible
+- **Daily Workflow**: Neovim ✨, Zsh, Zellij
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- **React & TypeScript** for frontend development
+- **FastAPI & Flask** for backend development
+- **CI/CD Pipelines** with YAML and automation workflows
+- **Infrastructure as Code** with Kubernetes & Ansible
+
+## Goals
+- Build scalable and efficient web applications
+- Improve automation workflows and infrastructure management
+- Continue learning and contributing to open-source projects
+
+**If you're into web dev, DevOps, or just love tech discussions, feel free to reach out**
+
